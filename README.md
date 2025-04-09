@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building sof
 ## 🧑‍💻 About Me
 
 - 💼 I'm currently working as a Software Engineer at Resmed.  
-- 🎓 I graduated from JBIET with a degree in Computer Sience  
+- 🎓 I graduated from JBIET with a degree in Computer Science  
 - 🌍 Based in: San Diego, California, USA  
 - 🔭 Currently learning: Developer Experience  
 - 🛠️ Tech I work with:  
